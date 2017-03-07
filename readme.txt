@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software
+  This is my first project, trying to provide some practical surveillance video synopsis methods for personal use
